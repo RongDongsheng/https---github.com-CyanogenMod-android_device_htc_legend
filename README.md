@@ -1,2 +1,3 @@
 https---github.com-CyanogenMod-android_device_htc_legend
 ========================================================
+This project is mainly used to complete my paper...
